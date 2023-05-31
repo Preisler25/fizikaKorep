@@ -102,3 +102,6 @@
     -> B ∥ A → Φ = 0
     -> B ⊥ A → Φ = max
 ---
+## Forgatónymaték:
+
+    Ez mi?
