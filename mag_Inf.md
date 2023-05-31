@@ -81,3 +81,24 @@
     -> B => Állandó
     -> ind-V iránya és nagysága  => Állandó
 ---
+## Mágneses fluxus:
+
+    Ez mi?
+    Megmutatja, hogy a felületre merőlegesen hány indukció vonal halad át
+
+    Jele?
+    Φ (phi)
+
+    Mértékegysége?
+    Wb -> Weber
+
+    Képlete és értelmezése?
+    Φ = A ⋅ B ⋅ (sin α)
+        -> A => Felület mérete négyzetméterben
+        -> B => Mágneses indukció vonalak Teslában
+        -> α => A felület és a indukció vektorok által bezárt szög
+
+    Érték magyarázat?
+    -> B ∥ A → Φ = 0
+    -> B ⊥ A → Φ = max
+---
