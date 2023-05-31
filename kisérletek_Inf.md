@@ -1,4 +1,4 @@
-## Röviden vázold a transzformátor felépítését és működési elvét!
+# Röviden vázold a transzformátor felépítését és működési elvét!
 
     A transzformátor egy elektromágneses eszköz, amely átalakítja az elektromos energiát az áramló áram és a mágneses tér kölcsönhatásán keresztül. A transzformátor alapvetően két tekercsből áll, amelyeket a vasmag köt össze.
 
@@ -25,7 +25,7 @@
     A transzformátor vasmagját lemezelve hozzák létre. Ennek oka, hogy a lemezek közötti szigetelés minimalizálja a veszteségeket, amelyeket az anyagban
     
 ---
-## Magnetó méter müködése (íránytű)
+# Magnetó méter müködése (íránytű)
 
     Az elektromos térhez hasonlóan a mágneses teret is hatásai alapján figyelhetjük meg. Kísérletek során azt tapasztalhatjuk ugyanis, hogy két, egymással párhuzamos vékony áramjárta vezető között erőhatás lép fel, illetve, hogy egy lazán felfüggesztett, áramjárta vékony egyenes tekercs mindig ugyanazon észak-déli irányba áll be, csakúgy, mint egy iránytű, vagyis meghatározott helyzeteiben nyilvánvalóan nyomaték hat rá.
      A párhuzamos áramjárta vezetők kölcsönhatását egy olyan újfajta mező segítségével írhatjuk le, amelyet mozgó töltések keltenek, és amely erőt csak mozgó töltésekre fejt ki. Miután az áramok a közelükben levő iránytűkre, mágneses anyagokra erőt, illetve nyomatékot fejtenek ki, nyilvánvalónak tűnik, hogy az áramjárta vezetők körül kialakuló mező ugyanolyan eredetű, mint a mágnesek körül kialakuló, ezért az áramok közötti előbb tapasztalt kölcsönhatást mágneses kölcsönhatásnak nevezzük.

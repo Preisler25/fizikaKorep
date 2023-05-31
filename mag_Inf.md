@@ -1,6 +1,6 @@
-## Mágnességtan
+# Mágnességtan
 ---
-## Mi a faszt tanultunk?
+# Mi a faszt tanultunk?
 
     Mágneses Tér
         -> Mágneses indukció-vektor
@@ -16,14 +16,14 @@
         -> Tekercs belső indukciója
         -> Nyugalmi indukció
 ---
-## Gyors kis okos:
+# Gyors kis okos:
 
     Neve    | Jele  | M. E. | M.E. Jele |
     M. ind-V|   B   | Tesla |     T     |
     M. flux | phi Φ | Weber |     WB    |
     Forg-ny |   M   |NewtonM|     NM    |
 ---
-## (Általános)Képletek: 
+# (Általános)Képletek: 
 
     M. flux ==> Φ = A ⋅ B ⋅ (sin α)
     Forg-ny ==> M = A ⋅ B ⋅ I ⋅ N
@@ -32,7 +32,7 @@
 
 
 ---
-## Indukció Vektor Képletek:
+# Indukció Vektor Képletek:
 
     ----- Mágneses indukció -----
 
@@ -59,7 +59,7 @@
         -> U = ( ΔΦ / Δt ) ⋅ N
 
 ---
-## Mágneses indukció-vektor:
+# Mágneses indukció-vektor:
 
     Ez mi? 
     Megmutatja, hogy egy adott pontban mekkora és milyen irányú a mágneses tér
@@ -81,7 +81,7 @@
     -> B => Állandó
     -> ind-V iránya és nagysága  => Állandó
 ---
-## Mágneses fluxus:
+# Mágneses fluxus:
 
     Ez mi?
     Megmutatja, hogy a felületre merőlegesen hány indukció vonal halad át
@@ -102,6 +102,6 @@
     -> B ∥ A → Φ = 0
     -> B ⊥ A → Φ = max
 ---
-## Forgatónymaték:
+# Forgatónymaték:
 
     Ez mi?
