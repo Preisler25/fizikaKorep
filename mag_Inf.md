@@ -105,3 +105,22 @@
 # Forgatónymaték:
 
     Ez mi?
+    Az erő forgatóhatásának nagyságát mutatja meg. 
+
+    Jele?
+    M
+
+    Mérték egysége?
+    Nm -> newtonméter
+
+    Képlete és értelmezése?
+    M = B ⋅ A ⋅ I ⋅ N
+        -> A => keresztmetszet (Négyzet Méter)
+        -> I => áramerősség (Amper)
+        -> N => menetszám (DB)
+        -> B => Mágneses indukció vonalak (Tesla)
+    
+    Érték magyarázat?
+    -> B ∥ A → M = 0
+    -> B ⊥ A → M = max
+---
