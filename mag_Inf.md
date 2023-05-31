@@ -1,0 +1,83 @@
+## Mágnességtan
+---
+## Mi a faszt tanultunk?
+
+    Mágneses Tér
+        -> Mágneses indukció-vektor
+        -> Mágneses fluxus
+        -> Forgatónyoamték
+    
+    Egyenáram mágneses tere
+        -> Egyenes vezetők tere
+        -> Tekercs tere
+
+    Mágneses indukciók
+        -> Mozgási elektromos indukció
+        -> Tekercs belső indukciója
+        -> Nyugalmi indukció
+---
+## Gyors kis okos:
+
+    Neve    | Jele  | M. E. | M.E. Jele |
+    M. ind-V|   B   | Tesla |     T     |
+    M. flux | phi Φ | Weber |     WB    |
+    Forg-ny |   M   |NewtonM|     NM    |
+---
+## (Általános)Képletek: 
+
+    M. flux ==> Φ = A ⋅ B ⋅ (sin α)
+    Forg-ny ==> M = A ⋅ B ⋅ I ⋅ N
+    Lorentz ==> F = ( l ⋅ B ⋅ I ) = ( B ⋅ Q ⋅ v )
+    Lor Kör ==> r = ( ( m ⋅ v ) / ( Q ⋅ B ) )
+
+
+---
+## Indukció Vektor Képletek:
+
+    ----- Mágneses indukció -----
+
+    Egyenes vezető tere
+        -> B = μ0 ⋅ ( I / 2rπ )
+
+    Tekercs tere
+        ->B = μ0 ⋅ (μr) ⋅ ( NI / l )
+    
+
+
+    ----- Elektromágneses indukció -----
+    
+    Mozgási elektromos indukció
+        -> U = B ⋅ l ⋅ v
+
+    Mozgási tekercs belső elektromos indukció
+        -> U = B ⋅ l ⋅ v ⋅ N
+
+    Nyugalmi elektromos indukció
+        -> U = ( ΔΦ / Δt )
+    
+    Nyugalmi tekercs belső elektromos indukció
+        -> U = ( ΔΦ / Δt ) ⋅ N
+
+---
+## Mágneses indukció-vektor:
+
+    Ez mi? 
+    Megmutatja, hogy egy adott pontban mekkora és milyen irányú a mágneses tér
+
+    Jele?
+    B
+
+    Mértékegysége?
+    T -> Tesla
+
+    Mit kell róla tudni a VALOSÁGBAN?
+    -> Képzeletbeli görbék, melyel a mágnesses teret lehet jellemezni
+    -> ( É -> D ) Északi pólusból Déli pólusba mutat
+    -> Sűrűsége a nagyságával egyenesen arányos
+    -> Érintő adja meg az ind-V irányát a görbe adott pontján
+
+    Mit kell róla tudni a HOMOGÉN Térben?
+    -> Görbékből egyenesek lesznek
+    -> B => Állandó
+    -> ind-V iránya és nagysága  => Állandó
+---
