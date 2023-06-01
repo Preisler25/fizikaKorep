@@ -1,3 +1,7 @@
+# Thomson ágyú
+
+    A tekercsen átfolyó váltóáram hatására a tekercs és a vasmag körül egy váltakozó mágneses mező jön létre. Ettől még az alumínium gyűrű nem mozdulna el, hiszen az alumínium nem mágneses tulajdonságú. Mivel az alumínium gyűrű zárt hurok egy változó mágneses mezőben, ezért örvényáram keletkezik benne, ezért melegszik fel a gyűrű a kísérlet során. A gyűrű tekercsként viselkedik, így a benne folyó örvényáram hatására létrehozza a „saját” mágneses mezejét, mely – a Lenz törvény alapján – mindig ellentétes irányú az igazi tekercs által létrehozott mágneses mezővel. A két ellentétes irányú mágneses mező taszítja egymást, ez a taszítás okozza az alumínium gyűrű elmozdulását. Minél erősebb a tekercs által létrehozott mágnese mező, annál nagyobb a gyűrű elmozdulása.
+
 # Röviden vázold a transzformátor felépítését és működési elvét!
 
     A transzformátor egy elektromágneses eszköz, amely átalakítja az elektromos energiát az áramló áram és a mágneses tér kölcsönhatásán keresztül. A transzformátor alapvetően két tekercsből áll, amelyeket a vasmag köt össze.
