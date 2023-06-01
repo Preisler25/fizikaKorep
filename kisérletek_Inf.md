@@ -2,31 +2,21 @@
 
     A tekercsen átfolyó váltóáram hatására a tekercs és a vasmag körül egy váltakozó mágneses mező jön létre. Ettől még az alumínium gyűrű nem mozdulna el, hiszen az alumínium nem mágneses tulajdonságú. Mivel az alumínium gyűrű zárt hurok egy változó mágneses mezőben, ezért örvényáram keletkezik benne, ezért melegszik fel a gyűrű a kísérlet során. A gyűrű tekercsként viselkedik, így a benne folyó örvényáram hatására létrehozza a „saját” mágneses mezejét, mely – a Lenz törvény alapján – mindig ellentétes irányú az igazi tekercs által létrehozott mágneses mezővel. A két ellentétes irányú mágneses mező taszítja egymást, ez a taszítás okozza az alumínium gyűrű elmozdulását. Minél erősebb a tekercs által létrehozott mágnese mező, annál nagyobb a gyűrű elmozdulása.
 
-# Röviden vázold a transzformátor felépítését és működési elvét!
+# Röviden vázold a transzformátor felépítését és működési elvét!  (12 pont) 
 
-    A transzformátor egy elektromágneses eszköz, amely átalakítja az elektromos energiát az áramló áram és a mágneses tér kölcsönhatásán keresztül. A transzformátor alapvetően két tekercsből áll, amelyeket a vasmag köt össze.
+    Mikor történik le-, illetve feltranszformálás? Miért kell lemezelni a transzformátor vasmagját? 
 
-    A transzformátor felépítése a következőképpen néz ki:
+ 
 
-    Vasmag: Ez a transzformátor szerkezetének központi része, amely általában ferromágneses anyagból, például vasból vagy rézből készül. A vasmag a tekercseket körülveszi és erősíti a mágneses tér hatását.
+    Transzformátorok 2 tekercsből és egy közös vasmagból épül fel. (primer szekunder) 
 
-    Primer tekercs: Ez a tekercs a transzformátor bemeneti oldalán található. Az elektromos energia ezen a tekercsen keresztül áramlik.
+    Primer tekercsen áram folyik át, ami mágneses teret hozz létre, ebben helyezkedik el a szekunder tekercs. Amikor a mágneses tér, vagy az áram erősségé változik, kölcsönhatást vált ki a két test között, ami a szekunder tekercsben áramot indukál. 
 
-    Szekunder tekercs: Ez a tekercs a transzformátor kimeneti oldalán található. Az elektromos energia a primer tekercsen áthaladva indukálódik ezen a tekercsen.
+    Le transzformálás akkor történik, ha a primer tekercs feszültsége nagyobb, mint a szekunder tekercsé 
 
-    Az alábbiakban ismertetem a transzformátor működési elvét:
+    Fel transzformálás akkor történik, ha a primer tekercs feszültsége kisebb, mint a szekunder tekercsé 
 
-    A primer tekercsre váltakozó áramot vezetünk, amely létrehoz egy mágneses teret a vasmagban.
-
-    A mágneses tér a vasmagban változásokat idéz elő, amelyek keresztülhatolnak a szekunder tekercsen.
-
-    Az általános elektromágneses indukció törvényének megfelelően a mágneses tér változása elektromos feszültséget indukál a szekunder tekercsben.
-
-    Az indukált feszültség a szekunder tekercs kimenetén elérhető, amelyet később további elektromos rendszerekbe vagy berendezésekbe lehet továbbítani.
-
-    A transzformátor le- és feltranszformálása a tekercsek arányos csévélésével történik. Ha a primer tekercs tekercsének száma nagyobb, mint a szekunderé, akkor az energia lefelé transzformálódik, ami a feszültség csökkenésével és az áramnagyság növekedésével jár. Ha a szekunder tekercs tekercsének száma nagyobb, akkor az energia felfelé transzformálódik, aminek eredményeként a feszültség nő, és az áramnagyság csökken.
-
-    A transzformátor vasmagját lemezelve hozzák létre. Ennek oka, hogy a lemezek közötti szigetelés minimalizálja a veszteségeket, amelyeket az anyagban
+    Lemezelt vasmag csökkenti a hő veszteség nagysággát, mivel a lemezek között szigetelő anyagok vannak, ezzel is növelve a hatásfokát
     
 ---
 # Magnetó méter müködése (íránytű)
